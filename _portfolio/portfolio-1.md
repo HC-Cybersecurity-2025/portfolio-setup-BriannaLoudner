@@ -4,7 +4,7 @@ title: Zombie Malware Survival Guide
 permalink: /portfolio/zombie-malware/
 ---
 
-## 🧟‍♂️ Zombie Malware Survival Guide  
+
 **Project Type:** Cybersecurity Awareness Poster  
 **Target Audience:** Healthcare staff in rural and community-based clinics
 
