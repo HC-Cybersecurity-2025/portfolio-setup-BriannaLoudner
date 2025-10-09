@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Cybersecurity Awareness Training Deck
+title: Cybersecurity Awareness  
 permalink: /portfolio/cybersecurity-awareness/
 ---
 
-## 🛡️ Cybersecurity Awareness   
-**Project Type:** PowerPoint Presentation  
+  **Project Type:** PowerPoint Presentation  
 **Target Audience:** Healthcare staff in rural and community-based clinics
 
 **Description:**  
