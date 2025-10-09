@@ -7,9 +7,9 @@
 # server process.
 theme: jekyll-theme-minimal
 # Basic Site Settings
-locale                   : "Ohio"
+locale                   : "US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : " Cybersecurity Vault "
+title                    : " Brianna Loudner / Cybersecurity Vault "
 title_separator          : "-"
 name                     : &name "Brianna Loudenr"
 description              : &description "personal description"
@@ -23,13 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Brianna Loudner"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Ohio"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Gamingle318@gmail.com" 
 
   # Academic websites
   academia         : # URL
