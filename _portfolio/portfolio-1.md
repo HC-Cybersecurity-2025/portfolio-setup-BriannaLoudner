@@ -1,8 +1,18 @@
 ---
-title: "Zombie Malware Survival Guide"
-excerpt: The Zombie Malware Survival Guide is a cybersecurity awareness campaign designed for healthcare staff working in rural and community-based clinics. Utilizing horror-themed visuals and zombie metaphors, the project effectively highlights digital threats such as phishing, outdated software, and weak authentication in a memorable and approachable manner. The poster combines accurate statistics, practical survival tips, and a relatable healthcare worker character to engage frontline staff who may have limited technical training. The goal is to make cybersecurity feel relevant and empowering, especially in environments where a single breach could disrupt patient care. 
-Collection: <img width="1024" height="1536" alt="Malware Survival Infographic" src="https://github.com/user-attachments/assets/67558190-c0b3-40dc-ba7a-32c28553b21f" />
+layout: page
+title: Zombie Malware Survival Guide
+permalink: /portfolio/zombie-malware/
 ---
+
+## 🧟‍♂️ Zombie Malware Survival Guide  
+**Project Type:** Cybersecurity Awareness Poster  
+**Target Audience:** Healthcare staff in rural and community-based clinics
+
+**Description:**  
+A horror-themed cybersecurity campaign designed to make digital safety memorable and approachable. Using zombie metaphors and bold visuals, the poster highlights threats like phishing, outdated software, and weak authentication. Tailored for healthcare environments, it combines accurate statistics, practical survival tips, and a relatable frontline character to engage staff with limited technical training.
+
+**View the Poster:**  
+[Zombie Malware Survival Guide]([Malware Inforgraphic.pdf](https://github.com/user-attachments/files/22809204/Malware.Inforgraphic.pdf))
 
 
 
