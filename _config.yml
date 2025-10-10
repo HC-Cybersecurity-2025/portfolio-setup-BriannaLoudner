@@ -22,7 +22,7 @@ repository               : "https://github.com/BriannaLoudner/cyber-security-vau
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/MeAndPiggy.jpg"
+  avatar           : "images/MeAndPiggy.jpg"
   name             : "Brianna Loudner"
   pronouns         : "she/her"  
   bio              : "Medical Informatics student @ Hocking College.  I create visual, locally inspired cybersecurity outreach for healthcare privacy and patient safety."
